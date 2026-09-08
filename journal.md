@@ -1,4 +1,4 @@
-Journal
+Journal:
 Phase 1
 Where did you put your script tag? Why?
 
