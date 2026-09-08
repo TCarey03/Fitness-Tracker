@@ -1,3 +1,5 @@
-const status = document.getElementById("status");
+console.log("Script Loaded");
 
-status.textContent = "Your fitness tracker is ready.";
+let userName = "Alex";
+
+alert("Welcome to the Fitness Tracker, " + userName + "!");
