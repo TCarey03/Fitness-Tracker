@@ -17,3 +17,15 @@ When I enter numbers into the prompts, the program converts the values into numb
 When I enter text instead of numbers, the `Number()` function cannot convert the text into a valid number. The result becomes `NaN`, which means "Not a Number." The program does not completely stop, but the calculation cannot produce a valid numerical result.
 
 I learned that values returned from `prompt()` are strings, so I need to convert them to numbers before using them in mathematical calculations.
+
+--------------------------------------
+
+Phase 3
+
+How did you put your string together? What are some other ways you could do it?
+
+I put my string together by using the `+` operator to combine the user's name and their total volume with the rest of the message. This allowed me to create one complete message from several different pieces of information.
+
+Another way I could create the string is by using a template literal with backticks. Template literals allow me to put variables directly inside the string using `${}`. I think this method can make longer strings easier to read.
+
+I also experimented with escape characters such as `\n` to create a new line in a string.
